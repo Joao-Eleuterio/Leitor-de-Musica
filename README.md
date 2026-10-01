@@ -1,6 +1,29 @@
-# Leitor-de-Musica
+# Music Dataset Manager
 
-Projeto realizado no âmbito da cadeira de Algoritmia e Estrutura de dados.
-O projeto consiste numa base de dados de músicas que são importadas de ficheiros de texto e armazenados no programa e com os vários comandos que se encontram no segundo enunciado conseguimos visualizar certas informações como quantas músicas existem repetidas, artistas que só têm uma música, ....
+Data-structures project for importing, storing and querying a collection of music records.
 
-Após concluir o trabalho de grupo com o meu colega os professores responsaveis concluiram que o trabalho merecia 16 valores.
+## Overview
+
+The application reads music data from text files and exposes commands for exploring and analysing the collection.
+
+## Functionality
+
+Examples of supported operations include:
+
+- importing music records
+- counting duplicate songs
+- identifying artists with a single track
+- querying information from the collection
+- processing structured text data
+
+## Focus
+
+- algorithms
+- data structures
+- file parsing
+- collection processing
+- query logic
+
+## Background
+
+Originally developed for an Algorithms and Data Structures course and kept as a legacy project demonstrating foundational data-processing work.
